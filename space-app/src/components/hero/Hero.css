@@ -1,0 +1,14 @@
+.hero {
+    background-image: url('https://i.pinimg.com/originals/bb/ac/25/bbac2551457785bd9af3e19c1c3ce0d8.gif');
+    background-size: cover;
+    background-position: center;
+    padding: 100px;
+    text-align: center;
+}
+
+.hero h1 {
+    font-family: 'Arial', sans-serif;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-size: 3em;
+}
